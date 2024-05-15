@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "productName2": "phones",
+    "productPrice": 35000,
+    "amount": 15
+  },
+  {
+    "id": "2",
+    "productName": "phones",
+    "productPrice": 35000,
+    "amount": 15
+  },
+  {
+    "id": "4",
+    "productName": "Tablet",
+    "productPrice": 35000,
+    "amount": 15
+  },
+  {
+    "id": "3",
+    "productName": "headphones",
+    "productPrice": 5000,
+    "amount": 2
+  },
+  {
+    "id": "4",
+    "productName": "headphones",
+    "productPrice": 5000,
+    "amount": 2
+  }
+]
